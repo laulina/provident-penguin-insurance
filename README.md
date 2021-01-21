@@ -8,10 +8,10 @@ Software Used: Adobe Xd
 <hr>
 
 ## Overview
-Due to the complexity of the system, the website is divided into four sections*: 
+Due to the complexity of the system, the website is divided into four sections: 
 
 **Section 1.** Homepage-Affiliation-Verification-AccountCreation-Login-Dashboard
-- URL: https://xd.adobe.com/view/2b68e108-1fb2-457a-7129-ffe4331a6d01-5d59/
+- URL: 
 
 **Section 2.** Enrollment-PlanChoosing-AddingFamily-ProfileWithProgramSelected 
 - URL: Coming soon!
@@ -22,7 +22,7 @@ Due to the complexity of the system, the website is divided into four sections*:
 **Section 4.** 
 - URL: Coming soon!
 
-*Passwords for each section provided on request.
+
 
 ## Instructions
 - Interact with the design through the clickable elements on each art board.
