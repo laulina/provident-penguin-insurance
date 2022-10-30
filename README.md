@@ -10,17 +10,9 @@ Software Used: Adobe Xd
 ## Overview
 Due to the complexity of the system, the website is divided into four sections: 
 
-**Section 1.** Homepage-Affiliation-Verification-AccountCreation-Login-Dashboard
+**Section** Homepage-Affiliation-Verification-AccountCreation-Login-Dashboard
 - URL: https://xd.adobe.com/view/9ade9f4a-568a-479f-b93f-82ba9a275da1-cf8d/
 
-**Section 2.** Enrollment-PlanChoosing-AddingFamily-ProfileWithProgramSelected 
-- URL: Coming soon!
-
-**Section 3.** ProductDashboard-ManageAffiliations-EditAccount
-- URL: Coming soon!
-
-**Section 4.** 
-- URL: Coming soon!
 
 
 
